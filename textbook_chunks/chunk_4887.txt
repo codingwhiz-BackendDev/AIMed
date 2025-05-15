@@ -1,0 +1,12 @@
+None
+
+While traditional x rays image organs in two dimen-
+sions, with the possibility that organs in the front of the
+body are superimposed over those in the back, CT scans
+allow for a more three-dimensional effect. Some have
+compared CT images to slices in a loaf of bread. Precise
+sections of the body can be located and imaged as cross-
+sectional views. The screen before the technologist
+shows a computer’s analysis of each section detected by
+the x-ray beam. Thus, various densities of tissue can be
+easily distinguished.

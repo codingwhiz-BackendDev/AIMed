@@ -1,0 +1,10 @@
+Diabetes is suspected based on symptoms. Urine and
+blood tests can be used to confirm a diagnose of diabetes
+based on the amount of glucose. Urine tests can also
+detect ketones and protein in the urine that may help
+diagnose diabetes and assess how well the kidneys are
+functioning. These tests can also be used to monitor the
+disease once the patient is on a standardized diet, oral
+medications, or insulin.
+
+None

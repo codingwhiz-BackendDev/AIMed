@@ -1,0 +1,5 @@
+Definition
+A fever is any body temperature elevation over
+100°F (37.8°C).
+
+None

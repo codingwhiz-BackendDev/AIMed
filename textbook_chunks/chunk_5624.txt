@@ -1,0 +1,9 @@
+There are two Coombs’ tests. A direct Coombs’ test
+detects the two different antigens that might induce
+hemolysis in the patient’s red blood cells. An indirect
+Coombs’ test looks for antibodies to someone else’s red
+blood cells in the patient’s serum (the blood without the
+cells). Combining the two tests gives clues to the origin
+of the hemolysis.
+
+None

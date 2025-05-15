@@ -1,0 +1,7 @@
+None
+
+A chest x ray may be ordered by a physician to
+check for possible tumors of the lungs, thyroid, lymphoid
+tissue, or bones of the thorax. These may be primary
+tumors. X rays also check for secondary spread of can-
+cer from one organ to another.

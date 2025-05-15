@@ -1,0 +1,40 @@
+None
+
+TDM is a practical tool that can help the physician
+provide effective and safe drug therapy in patients who
+need medication. Monitoring can be used to confirm a
+blood drug concentration level that is above or below the
+therapeutic range, or if the desired therapeutic effect of
+the drug is not as expected. If this is the case, and
+dosages beyond normal then have to be prescribed, TDM
+can minimize the time that elapses.
+TDM is important for patients who have other dis-
+eases that can affect drug levels, or who take other medi-
+cines that may affect drug levels by interacting with the
+drug being tested. As an example, without drug monitor-
+ing, the physician cannot be sure if a patient’s lack of
+response to an antibiotic reflects bacterial resistance, or
+is the result of failure to reach the proper therapeutic
+range of antibiotic concentration in the blood. In cases of
+life-threatening infections, timing of effective antibiotic
+therapy is critical to success. It is equally crucial to avoid
+toxicity in a seriously ill patient. Therefore, if toxic
+symptoms appear with standard dosages, TDM can be
+used to determine changes in dosing.
+Drawn blood, used for TDM, demonstrates a drug
+action in the body at any specific time, whereas drug lev-
+els examined from urine samples reflect the presence of a
+drug over many days (depending on the rate of excre-
+tion). Therefore, blood testing is the procedure of choice
+when definite data are required. However, for adequate
+absorption and therapeutic levels to be accurate, it is
+important to allow for sufficient time to pass between the
+administration of the medication and the collection of the
+blood sample.
+Blood specimens for drug monitoring can be taken
+at two different times: during the drug’s highest thera-
+peutic concentration (“peak” level), or its lowest
+(“trough” level). Occasionally called residual levels,
+trough levels show sufficient therapeutic levels; whereas
+peak levels show poisoning (toxicity). Peak and trough
+levels should fall within the therapeutic range.

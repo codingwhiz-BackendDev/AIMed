@@ -1,0 +1,15 @@
+None
+
+The EEG readings of patients with epilepsy or other
+seizure disorders display bursts or spikes of electrical activ-
+ity. In focal epilepsy, spikes are restricted to one hemi-
+sphere of the brain. If spikes are generalized to both hemi-
+spheres of the brain, multifocal epilepsy may be present.
+The diagnostic brainwave patterns of other disorders
+varies widely. The appearance of excess theta waves
+(four to eight cycles per second) may indicate brain
+injury. Brain wave patterns in patients with brain disease,
+mental retardation, and brain injury show overall slow-
+ing. A trained medical specialist should interpret EEG
+results in the context of the patient’s medical history, and
+other pertinent medical test results.

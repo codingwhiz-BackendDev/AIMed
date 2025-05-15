@@ -1,0 +1,32 @@
+None
+
+cle) vein. The catheters are about 0.08 in (2 mm) in
+diameter, about the size of a spaghetti noodle. The
+catheters used in catheter ablation are slightly larger.
+With the help of fluoroscopy (x rays on a television
+screen), all the catheters are guided to several specific
+locations in the heart. Typically, four to 10 electrodes are
+located on the end of the catheters, which have the ability
+to send electrical signals to stimulate the heart (called
+pacing) and to receive electrical signals from the heart—
+but not at the same time (just as a walkie-talkie cannot
+send and receive messages at the same time).
+First, the electrodes are positioned to receive signals
+from inside the heart chambers. This allows the doctor to
+measure how fast the electrical impulses travel currently
+in the patient’s heart. These measurements are called the
+patient’s baseline measurements. Next, the electrodes are
+positioned to pace: The EP team actually tries to induce
+(sometimes in combination with various heart drugs) the
+arrhythmia that the patient has previously experienced so
+the team can observe it in a controlled environment,
+compare it to the patient’s clinical or spontaneous
+arrhythmia, and decide how to treat it.
+Once the arrhythmia is induced and the team deter-
+mines it can be treated with catheter ablation, cardiac
+mapping is performed to locate precisely the origin and
+route of the abnormal pathway. When this is accom-
+plished, the ablating electrode catheter is positioned
+directly against the abnormal pathway, and high radio-
+frequency energy is delivered through the electrode to
+destroy (burn) the tissue in this area.

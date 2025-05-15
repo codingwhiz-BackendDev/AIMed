@@ -1,0 +1,36 @@
+None
+
+Special training is required for interpretation of the
+electrocardiogram. To summarize the features used in inter-
+pretations in the simplest manner, the P wave of the electro-
+cardiogram is associated with the contraction of the atria.
+The QRS series of waves, or QRS complex, is associated
+with ventricular contraction, with the T wave coming after
+the contraction. Finally, the P-Q or P-R interval gives a
+value for the time taken for the electrical impulse to travel
+from the atria to the ventricle (normally less than 0.2 sec).
+The cause of dysrhythmia is ectopic beats. Ectopic
+beats are premature heart beats that arise from a site
+other than the sinus node—commonly from the atria,
+atrioventricular node, or the ventricle. When these dys-
+rhythmias are only occasional, they may produce no
+symptoms, or a feeling of the heart turning over or “flip-
+flopping” may be experienced. These occasional dys-
+rhythmias are common in healthy people, but they also
+can be an indication of heart disease.
+The varied sources of dysrhythmias provide a wide
+range of alterations in the form of the electrocardiogram.
+Ectopic beats that start in the ventricle display an abnor-
+mal QRS complex. This can indicate disease associated
+with insufficient blood supply to the muscle (myocardial
+ischemia). Multiple ectopic sites lead to rapid and unco-
+ordinated contractions of the atria or ventricles. This con-
+dition is known as fibrillation. In atrial fibrillation, P
+waves are absent, and the QRS complex appears at errat-
+ic intervals, or “irregularly irregular.”
+When the atrial impulse fails to reach the ventricle, a
+condition known as heart block results. If this is partial,
+the P-R interval (the time for the impulse to reach the ven-
+tricle) is prolonged. If complete, the ventricles beat inde-
+pendently of the atria at about 40 beats per minute, and
+the QRS complex is mostly dissociated from the P wave.

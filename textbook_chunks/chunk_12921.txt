@@ -1,0 +1,11 @@
+None
+
+Fever evaluation tests, better known as febrile
+agglutinins tests, are performed to detect the presence of
+antibodies in the blood that are sensitive to temperature
+changes. Antibodies are proteins produced by the
+immune system in response to specific infectious agents,
+such as viruses or bateria. Febrile agglutinins are anti-
+bodies that cause red blood cells to clump, but only when
+the blood is warmed to temperatures higher than the
+average body temperature of 98.6°F (37°C).

@@ -1,0 +1,5 @@
+None
+
+The test is widely used because it is noninvasive,
+uses no x rays, and gives excellent images. It is harmless,
+painless, and widely available.

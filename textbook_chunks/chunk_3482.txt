@@ -1,0 +1,8 @@
+None
+
+The cholesterol test requires a sample of the
+patient’s blood. Fasting before the test is required to get
+an accurate triglyceride and LDL level. The blood is
+withdrawn by the usual vacuum tube technique from one
+of the patient’s veins. The blood test takes between three
+and five minutes.

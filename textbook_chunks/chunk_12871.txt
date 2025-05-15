@@ -1,0 +1,5 @@
+None
+
+This test requires a blood sample. The patient is not
+required to be in a fasting state (nothing to eat or drink
+for a period of hours before the test).

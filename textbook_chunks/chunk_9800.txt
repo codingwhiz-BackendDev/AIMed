@@ -1,0 +1,10 @@
+None
+
+The severity of injury depends on the current’s pres-
+sure (voltage), the amount of current (amperage), the
+type of current (direct vs. alternating), the body’s resis-
+tance to the current, the current’s path through the body,
+and how long the body remains in contact with the cur-
+rent. The interplay of these factors can produce effects
+ranging from barely noticeable tingling to instant death;
+every part of the body is vulnerable. Although the severi-

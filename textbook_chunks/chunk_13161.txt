@@ -1,0 +1,9 @@
+None
+
+Fifth disease is caused by the human parvovirus B19,
+a member of the Parvoviridae family of viruses, that lives
+in the nose and throat of the infected person. The virus is
+spread through the air by coughing and sneezing. Because
+the virus needs a rapidly dividing cell in order to multiply,
+it attacks the red blood cells of the body. Once infected, a
+person is believed to be immune to reinfection.

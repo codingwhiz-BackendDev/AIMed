@@ -1,0 +1,8 @@
+None
+
+The CEA test is not a screening test for cancer. It is
+not useful for detecting the presence of cancer. Many
+cancers do not produce an increased CEA level. Some
+noncancerous diseases, such as hepatitis, inflammatory
+bowel disease, pancreatitis, and obstructive pulmonary
+disease, may cause an elevated CEA level.

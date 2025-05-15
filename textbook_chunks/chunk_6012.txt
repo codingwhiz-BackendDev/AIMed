@@ -1,0 +1,9 @@
+None
+
+This test is performed on patients who may have
+malfunctioning adrenal glands. Blood and urine cortisol,
+together with the determination of adrenocorticotropic
+hormone (ACTH), are the three most important tests in
+the investigation of Cushing’s syndrome (caused by an
+overproduction of cortisol) and Addison’s disease
+(caused by the underproduction of cortisol).

@@ -1,0 +1,43 @@
+None
+
+Nerves convey information to the body by sending
+electrical signals down the length of the nerve. These sig-
+nals can be recorded by wires placed over the nerves on
+the surface of the skin, in a procedure called an evoked
+potential (EP) study. The person conducting the test
+evokes the patient’s neural activity by visual or auditory
+stimulation or using a mild electrical shock. This causes
+changes in the electrical potential in the nerves. Analysis
+of the signals can provide information about the condi-
+tion of nerve pathways, especially those in the brain and
+spinal cord. They can indicate the presence of disease or
+degeneration, and can help determine the location of
+nerve lesions.
+There are three major types of EP studies used regu-
+larly:
+• Visual evoked potentials are used to diagnose visual
+losses due to optic nerve damage, especially from mul-
+tiple sclerosis. They are also useful to diagnose “hys-
+terical blindness,” in which loss of vision is not due to
+any nerve damage.
+• Auditory evoked potentials are used to diagnose hearing
+losses. They can distinguish damage to the acoustic nerve
+(which carries signals from the ear to the brain stem)
+from damage to the auditory pathways within the brain-
+stem. Most auditory EPs record activity from the brain-
+stem, and are therefore called “brainstem auditory evoked
+potentials.” Disorders diagnosed with auditory EPs
+include acoustic neuroma (tumors of the inner ear) and
+multiple sclerosis (chronic disease in which nerves lose
+patches of their outer covering). They may also be used to
+assess high frequency hearing ability, to determine brain
+death, and to monitor brainstem function during surgery
+• Somatosensory evoked potentials record transmission of
+nerve impulses from the limbs to the brain, and can be
+used to diagnose nerve damage or degeneration within
+the spinal cord or nerve roots from multiple sclerosis,
+trauma, or other degenerative disease. Somatosensory
+EPs can be used to distinguish central versus peripheral
+nerve disease, when combined with results from a nerve
+conduction velocity test, which measures nerve function
+in the extremities.

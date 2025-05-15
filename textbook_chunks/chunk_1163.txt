@@ -1,0 +1,6 @@
+The absolute numbers which are considered normal
+vary from one laboratory to another. Any results reported
+should come with information regarding the testing facil-
+ity’s normal range.
+
+None

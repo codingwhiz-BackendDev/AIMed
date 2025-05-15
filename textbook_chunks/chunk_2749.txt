@@ -1,0 +1,12 @@
+The patient is considered to be responding positively
+to chest physical therapy if some, but not necessarily all,
+of these changes occur:
+• increased volume of sputum secretions
+• changes in breath sounds
+• improved vital signs
+• improved chest x ray
+• increased oxygen in the blood as measured by arterial
+blood gas values
+• patient reports of eased breathing
+
+None

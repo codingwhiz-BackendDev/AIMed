@@ -1,0 +1,11 @@
+Electrocardiography is a commonly used, non-inva-
+sive procedure for recording electrical changes in the
+heart. The record, which is called an electrocardiogram
+(ECG or EKG), shows the series of waves that relate to
+the electrical impulses which occur during each beat of
+the heart. The results are printed on paper or displayed
+on a monitor. The waves in a normal record are named P,
+Q, R, S, and T and follow in alphabetical order. The num-
+ber of waves may vary, and other waves may be present.
+
+None

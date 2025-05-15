@@ -1,0 +1,8 @@
+None
+
+TDM is employed to measure blood drug levels so
+that the most effective dosage can be determined, with
+toxicity prevented. TDM is also utilized to identify non-
+compliant patients (those patients who, for whatever rea-
+son, either cannot or will not comply with drug dosages
+as prescribed by the physician).

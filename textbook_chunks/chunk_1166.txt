@@ -1,0 +1,9 @@
+None
+
+A single abnormal CEA value may be significant,
+but must be regarded cautiously. In general, very high
+CEA levels indicate more serious cancer, with a poorer
+chance for cure. But some benign diseases and certain
+cancer treatments may produce an elevated CEA test.
+Cigarette smoking will also cause the CEA level to be
+abnormally high.

@@ -1,0 +1,5 @@
+None
+
+Electroencephalography, or EEG, is a neurological
+test that uses an electronic monitoring device to measure
+and record electrical activity in the brain.

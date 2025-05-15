@@ -1,0 +1,7 @@
+None
+
+EP test results are displayed as jagged electrical
+tracings (wave forms), which have characteristic shapes,
+heights, and lengths, indicating the speed and intensity of
+signal transmission. Results are read by someone trained
+in evoked potential studies.

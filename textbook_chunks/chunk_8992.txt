@@ -1,0 +1,39 @@
+The primary site of drug metabolism is the liver, the
+organ that plays a major role in metabolism, digestion,
+detoxification, and elimination of substances from the
+body. Enzymes in the liver are responsible for chemically
+changing drug components into substances known as
+metabolites. Metabolites are then bound to other sub-
+stances for excretion through the lungs, or bodily fluids
+such as saliva, sweat, breast milk, and urine, or through
+reabsorption by the intestines. The primary mode of
+excretion is through the kidneys.
+The family of liver isoenzymes known as cytochrome
+P-450 are crucial to drug metabolism. These enzymes
+(labeled CYP1A2, CYP2C9, CYP2C19, CYP2D6, and
+CYP3A4) have a catabolic action on substances, breaking
+them down into metabolites. Consequently, they also act to
+lower the concentration of medication in the bloodstream.
+Drug interactions can occur when one drug inhibits
+or induces a P-450 that acts on another drug. An exam-
+ple is nicotine, a drug contained in tobacco, and known
+to induce P-450s. Individuals with liver disease (e.g.,
+cirrhosis) may also have insufficient levels of P-450
+enzymes. As a result, the concentration of drugs metab-
+olized by these enzymes (e.g., amprenavir and other
+protease inhibitors) remains high and can build up to
+toxic levels in the bloodstream. In addition, certain
+medications and foods, such as grapefruit juice, can
+inactivate or lessen the metabolic activity of P-450s.
+Changing the drug dosage can alleviate the problem in
+some cases.
+The metabolic rate can vary significantly from per-
+son to person, and drug dosages that work quickly and
+effectively in one individual may not work well for
+another. Factors such as genetics, environment, nutri-
+tion and age also influence drug metabolism; infants
+and elderly patients may have a reduced capacity to
+metabolize certain drugs, and may require adjustments
+in dosage.
+
+None

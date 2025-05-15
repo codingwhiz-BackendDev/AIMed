@@ -1,0 +1,5 @@
+None
+
+Cystometry is a test of bladder function in which
+pressure and volume of fluid in the bladder is measured
+during filling, storage, and voiding.

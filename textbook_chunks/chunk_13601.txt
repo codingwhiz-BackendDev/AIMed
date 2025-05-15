@@ -1,0 +1,4 @@
+None
+
+The FSH test is a blood test. Blood will be drawn
+from the patient and analyzed in a laboratory.

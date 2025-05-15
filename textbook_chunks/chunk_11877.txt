@@ -1,0 +1,15 @@
+Ophthalmic ultrasound equipment sends high fre-
+quency pulses of sound into the eye, where they bounce
+off the boundaries between different structures in the eye
+and produce a distinctive pattern of echoes. This echo
+pattern is received and interpreted by a computer to pro-
+duce an image on a television screen. The time it takes an
+echo to return to the receiver corresponds to the depth it
+traveled into the eye.
+Single transducer (the sound transmitter/receiver)
+ultrasound is used to measure distances within the eye.
+This is A-mode ultrasound. A linear array of transduc-
+GALE ENCYCLOPEDIA OF MEDICINE 2
+1258
+
+None

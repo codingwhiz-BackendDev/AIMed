@@ -1,0 +1,5 @@
+direction, the result is recorded as “light projection.” If
+the patient cannot detect the light at all, the result is
+recorded as “no light perception.”
+
+None

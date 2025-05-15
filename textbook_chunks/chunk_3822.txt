@@ -1,0 +1,5 @@
+None
+
+Chest x rays can detect only about half of the cases of
+emphysema. Chest x rays are rarely useful for diagnosing
+chronic bronchitis.

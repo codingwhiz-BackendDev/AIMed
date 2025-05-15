@@ -1,0 +1,82 @@
+None
+
+It is clear that Creutzfeldt-Jakob disease is caused by
+an infectious agent, but it is not yet clear what type of
+agent that is. Originally assumed to be a virus, evidence
+is accumulating that, instead, CJD is caused by a protein
+called a prion (PREE-on, for “proteinaceous infectious
+particle”) transmitted from victim to victim. The other
+spongiform encephalopathies are also hypothesized to be
+due to prion infection.
+If this hypothesis is proved true, it would represent
+one of the most radical new ideas in biology since the
+discovery of deoxyribonucleic acid (DNA). All infec-
+tious diseases, in fact all life, uses nucleic acids—DNA
+or ribonucleic acid (RNA)—to code the instructions
+needed for reproduction. Inactivation of the nucleic acids
+destroys the capacity to reproduce. However, when these
+same measures are applied to infected tissue from
+spongiform encephalopathy victims, infectivity is not
+destroyed. Furthermore, purification of infected tissue to
+concentrate the infectious fraction yields protein, not
+nucleic acid. While it remains possible that some highly
+stable nucleic acid remains hidden within the purified
+protein, this is seemingly less and less likely as further
+experiments are done. The “prion hypothesis,” as it is
+called, is now widely accepted, at least provisionally, by
+most researchers in the field. The most vocal proponent
+of the hypothesis, Stanley Prusiner, was awarded the
+Nobel Prize in 1997 for his work in the prion diseases.
+A prion is an altered form of a normal brain protein.
+The normal protein has a helical shape along part of its
+length. In the prion form, a sheet structure replaces the
+helix. According to the hypothesis, when the normal
+form interacts with the prion form, some of its helical
+part is converted to a sheet, thus creating a new prion
+capable of transforming other normal forms. In this way,
+the disease process resembles crystallization more than
+typical viral infection, in which the virus commands the
+host’s cellular machinery to reproduce more of the virus.
+Build-up of the sheet form causes accumulation of
+abnormal protein clumps and degeneration of brain cells,
+which is thought to cause the disease.
+The brain protein affected by the prion, called PrP, is
+part of the membrane of brain cells, but its exact function
+is unknown. It is composed of about 250 subunits, called
+amino acids, coded for by a gene on chromosome 20.
+Slight genetic differences, called polymorphisms, give
+rise to two slightly different normal protein forms: sub-
+unit 129 is a “methionine” in one form, but is “valine” in
+the other. A person may have all of one, all of the other,
+or a mixture of the two, depending on their genetic inher-
+itance. Both forms have the normal helical structure, and
+function normally. However, susceptibility to prion con-
+version is influenced by subunit 129: a person with a
+mixture of forms is more resistant to conversion. All the
+cases of vCJD tested have had just methionine at 129.
+Exposure to the infectious agent is, of course, still
+required for disease development. Prion diseases are not
+contagious in the usual sense, and transmission from an
+infected person to another person requires direct inocula-
+tion of infectious material.
+Familial CJD, on the other hand, does not require
+exposure, but develops through the inheritance of other,
+more disruptive mutations in the gene for the normal PrP
+protein. Researchers believe these mutations increase the
+likelihood that the protein may more spontaneously
+“flip” to the sheet form; once created, these can then con-
+vert other normal-form molecules. The other two inherit-
+ed human prion diseases,
+Gerstmann-Straussler-
+GALE ENCYCLOPEDIA OF MEDICINE 2
+952
+Creutzfeldt-Jakob disease
+Scheinker disease and fatal familial insomnia, involve
+different mutations in the same gene.
+The large majority of CJD cases are sporadic, mean-
+ing they have no known route of infection or genetic link.
+Causes of sporadic CJD are likely to be diverse and may
+include spontaneous genetic mutation, spontaneous pro-
+tein changes, or unrecognized exposure to infectious
+agents. It is highly likely that future research will identi-
+fy more risk factors associated with sporadic CJD.

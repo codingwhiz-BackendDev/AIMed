@@ -1,0 +1,32 @@
+None
+
+The purpose of the TC test is to measure the levels
+of cholesterol in the patient’s blood. The patient’s choles-
+terol can also be fractionated (separated into different
+portions) in order to determine the TC/HDL ratio. The
+results help the doctor to assess the patient’s risk for
+coronary artery disease (CAD). High LDL levels are
+associated with increased risk of CAD whereas high
+HDL levels are associated with relatively lower risk.
+In addition, the results of the cholesterol test can
+assist the doctor in evaluating the patient’s metabolism of
+fat, or in diagnosing inflammation of the pancreas, liver
+disease, or disorders of the thyroid gland.
+The frequency of cholesterol testing depends on the
+patient’s degree of risk for CAD. People with low choles-
+terol levels may need to be tested once every five years.
+People with high levels of blood cholesterol should be
+tested more frequently, according to their doctor’s advice.
+The doctor may recommend a detailed evaluation of the
+different types of lipids in the patient’s blood. It is ideal to
+check the HDL and triglycerides as well as the cholesterol
+and LDL. In addition, the National Cholesterol Education
+Program (NCEP) suggests further evaluation if the patient
+has any of the symptoms of CAD or if she or he has two
+or more of the following risk factors for CAD:
+• male sex
+• high blood pressure
+• smoking
+• diabetes
+• low HDL levels
+• family history of CAD before age 55

@@ -1,0 +1,12 @@
+The cold agglutinins test is performed to detect the
+presence of antibodies in blood that are sensitive to tem-
+perature changes. Antibodies are proteins produced by
+the immune system in response to specific disease
+agents; autoantibodies are antibodies that the body pro-
+duces against one of its own substances. Cold agglutinins
+are autoantibodies that cause red blood cells to clump,
+but only when the blood is cooled below the normal body
+temperature of 98.6°F (37°C). The clumping is most pro-
+nounced at temperatures below 78°F (25.6°C).
+
+None

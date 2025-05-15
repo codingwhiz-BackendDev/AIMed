@@ -1,0 +1,6 @@
+None
+
+External sphincter electromyography helps physi-
+cians determine how well the external urinary sphincter
+muscle is working by measuring the electrical activity in
+it during contraction and relaxation.

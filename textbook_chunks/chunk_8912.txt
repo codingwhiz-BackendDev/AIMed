@@ -1,0 +1,33 @@
+Doppler ultrasonography makes use of two different
+principles. The ultrasound principle is this: when a high-
+frequency sound is produced and aimed at a target, it will
+be reflected by its target and the reflected sound can be
+detected back at its origin. In addition, it is known that
+certain crystals (called piezoelectric crystals) produce an
+electrical pulse when vibrated by a returning sound.
+The Doppler principle is simply that sound pitch
+increases as the source moves toward the listener and
+decreases as it moves away.
+Medical science utilizes these two principles in the
+following way. A transducer (sometimes called a probe)
+containing piezoelectric crystals sends a series of short
+sound pulses into the body and pauses between each
+pulse to listen for the returning sounds. The machine
+then determines the direction and depth of each returning
+sound and coverts this into a point of light on a television
+monitor. Thousands of these pulses are computed and
+displayed every second to produce an image of the organ
+being studied. The image allows the doctor to see the
+organ functioning in real time.
+The newest addition to this test is the addition of
+color. Adding color to the image shows the direction and
+rate of blood flow more clearly.
+During a Doppler ultrasonography procedure the
+technician will apply a gel to the skin, then place the
+transducer against the skin at various angles. The trans-
+ducer sends the information it receives to a television
+monitor that shows a moving image of the organ being
+studied. The technician can save these images either on
+video tape, paper, or x-ray film for further study.
+
+None

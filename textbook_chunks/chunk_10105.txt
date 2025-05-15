@@ -1,0 +1,14 @@
+None
+
+There should be some brief EMG activity during
+needle insertion. This activity may be increased in dis-
+eases of the nerve and decreased in long-standing muscle
+disorders where muscle tissue is replaced by fibrous tis-
+sue or fat. Muscle tissue normally shows no EMG activi-
+ty when at rest or when moved passively by the examin-
+er. When the patient actively contracts the muscle, spikes
+(motor unit action potentials) should appear on the
+recording screen, reflecting the electrical activity within.
+As the muscle is contracted more forcefully, more groups
+of muscle fibers are recruited or activated, causing more
+EMG activity.

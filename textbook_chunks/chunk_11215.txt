@@ -1,0 +1,11 @@
+None
+
+The results for current or recent infection are:
+• antibody to EA = positive
+• antibody to VCA IgM = positive
+• antibody to VCA IgG = positive
+• antibody to EBNA = negative
+Without the pattern of the three antibodies, it can be
+difficult to be accurate in interpretation. The presence of
+antibody to VCA IgM is the best single test for current or
+recent first time infection.

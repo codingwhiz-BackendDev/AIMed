@@ -1,0 +1,7 @@
+None
+
+An ESB tremor control device, used in treating
+Parkinson patients, may interfere with or be affected by
+cardiac pacemakers and other medical equipment. As a
+result, patients with other implanted medical equipment
+may not be good candidates for the therapy.

@@ -1,0 +1,7 @@
+None
+
+Electroencephalography should be administered and
+interpreted by a trained medical professional only. Data
+from an EEG is only one element of a complete medical
+and/or psychological patient assessment, and should
+never be used alone as the sole basis for a diagnosis.

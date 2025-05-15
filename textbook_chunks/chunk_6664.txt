@@ -1,0 +1,41 @@
+This test is useful in distinguishing individuals with
+excess ACTH production due to a pituitary adenoma
+from those with ectopic ACTH-producing tumors.
+Patients are given dexamethasone (a synthetic glucocor-
+ticoid) orally every six hours for four days. Low doses of
+dexamethasone are given during the first two days; for
+the last two days, higher doses are administered. Before
+dexamethasone is administered, as well as on each day of
+the test, 24-hour urine collections are obtained.
+Because cortisol and other glucocorticoids signal the
+pituitary to decrease ACTH, the normal response after
+taking dexamethasone is a drop in blood and urine corti-
+sol levels. Thus, the cortisol response to dexamethasone
+differs depending on whether the cause of Cushing’s syn-
+drome is a pituitary adenoma or an ectopic ACTH-pro-
+ducing tumor.
+However, the dexamethasone suppression test may
+produce false-positive results in patients with conditions
+such as depression, alcohol abuse, high estrogen levels,
+acute illness, and stress. On the other hand, drugs such as
+phenytoin and phenobarbital may produce false-negative
+results. Thus, patients are usually advised to stop taking
+these drugs at least one week prior to the test.
+Corticotropin-releasing hormone (CRH)
+stimulation test
+The CRH stimulation test is given to help distin-
+guish between patients with pituitary adenomas and
+GALE ENCYCLOPEDIA OF MEDICINE 2
+972
+Cushing’s syndrome
+those with either ectopic ACTH syndrome or cortisol-
+secreting adrenal tumors. In this test, patients are given
+an injection of CRH, the corticotropin-releasing hor-
+mone that causes the pituitary to secrete ACTH. In
+patients with pituitary adenomas, blood levels of ACTH
+and cortisol usually rise. However, in patients with
+ectopic ACTH syndrome, this rise is rarely seen. In
+patients with cortisol-secreting adrenal tumors, this rise
+almost never occurs.
+
+None

@@ -1,0 +1,13 @@
+None
+
+There are many different types of chemotherapy
+drugs. Oncologists, doctors who specialize in treating
+cancer, determine which drugs are best suited for
+each patient. This decision is based on the type of
+cancer, the patient’s age and health, and other drugs
+the patient is taking. Some patients should not be
+treated with certain chemotherapy drugs. Age and
+other conditions may affect the drugs with which a
+person may be treated. Heart disease, kidney disease,
+and diabetes are conditions that may limit the choice
+of treatment drugs.

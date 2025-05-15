@@ -1,0 +1,4 @@
+Spontaneous bleeding can occur with values less
+than 100 mg/dL.
+
+None

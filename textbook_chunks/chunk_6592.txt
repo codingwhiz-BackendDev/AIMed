@@ -1,0 +1,10 @@
+None
+
+CT is used in the process of performing a biopsy,
+such as a needle biopsy, in order to guide the needle to
+the site of the biopsy and to provide rapid and precise
+localization of the needle. CT enables imaging of areas
+that are normally beyond visible boundaries. This
+enables the physician to see the target area clearly and
+help to ensure that the tissue being removed is from the
+target lesion.

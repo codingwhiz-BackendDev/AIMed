@@ -1,0 +1,22 @@
+None
+
+Spiral CT, also called helical CT, is a newer version
+of CT scanning which is continuous in motion and
+allows for three-dimensional recreation of images. For
+example, traditional CT allows the technologist to take
+slices at very small and precise intervals one after the
+other. Spiral CT allows for a continuous flow of images,
+without stopping the scanner to move to the next image
+slice. A major advantage of spiral CT is the ability to
+reconstruct images anywhere along the length of the
+study area. The procedure also speeds up the imaging
+process, meaning less time for the patient to lie still. The
+ability to image contrast more rapidly after it is injected,
+when it is at its highest level, is another advantage of spi-
+ral CT’s high speed.
+Some facilities will have both spiral and convention-
+al CT available. Although spiral is more advantageous
+for many applications, conventional CT is still a superior
+and precise method for imaging many tissues and struc-
+tures. The physician will evaluate which type of CT
+works best for the specific exam purpose.

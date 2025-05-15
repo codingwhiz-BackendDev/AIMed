@@ -1,0 +1,5 @@
+None
+
+A doctor should perform a thorough pelvic exam
+and take a patient history to rule out an underlying condi-
+tion that could cause cramps.

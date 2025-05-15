@@ -1,0 +1,41 @@
+None
+
+Visual acuity measures how clearly the patient can
+see. It is measured for each eye separately, with and
+without the current prescription. It is usually measured
+with a Snellen eye chart, a poster with lines of different-
+sized letters, each line with a number at the side denoting
+the distance from which a person with normal vision can
+read that line. Other kinds of eye charts with identifiable
+figures are available for children or anyone unfamiliar
+with the Roman alphabet. These charts are made to be
+placed at a certain distance (usually 20 ft) from the per-
+son being tested. At this distance, people with normal
+vision can read a certain line (usually the lowest),
+marked the 20/20 line; these people are said to have
+20/20 vision. For people who can’t read the smallest line,
+the examiner assigns a ratio based on the smallest line
+they can read. The first number (numerator) of the ratio
+is the distance between the chart and the patient, and the
+second number (denominator) is the distance where a
+person with normal vision would be able to read that
+line. The ratio 20/40 means the patient can see at 20 ft.
+what people with normal vision can see at 40 ft. away.
+When a patient is unable to read any lines on the
+chart, they are moved closer until they can read the line
+with the largest letters. The acuity is still measured the
+same way. A ratio of 5/200 means the person being tested
+can see at 5 ft what a normal person can see 200 ft.
+When a patient can’t read the chart at all, the exam-
+iner may hold up some fingers and ask the patient to
+count them at various distances, and records the result as
+“counting fingers” at the distance of recognition. If the
+patient cannot count the examiner’s fingers at any dis-
+tance, the examiner determines if the patient can see
+hand movements. If so, the result is recorded as “hand
+movements.” If not, the examiner determines if the
+patient can detect light from a penlight. If the patient can
+detect the light but not its direction, the result is recorded
+at “light perception.” If the patient can recognize its
+GALE ENCYCLOPEDIA OF MEDICINE 2
+1262

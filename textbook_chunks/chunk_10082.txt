@@ -1,0 +1,5 @@
+Electromyography (EMG) is an electrical recording
+of muscle activity that aids in the diagnosis of neuromus-
+cular disease.
+
+None

@@ -1,0 +1,5 @@
+This test is performed with a blood sample, which
+can be drawn at any time of day. The patient does not
+have to be fasting (nothing to eat or drink).
+
+None

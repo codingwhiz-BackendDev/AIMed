@@ -1,0 +1,4 @@
+None
+
+monitors in the chest area from the patient’s placement
+during the exam.

@@ -1,0 +1,17 @@
+Blood tests may be useful in diagnosing fluke
+infections, but their usefulness is limited because of
+cross-reactions. A cross-reaction occurs in blood testing
+when a particular disease agent reacts with antibodies
+specific to another disease agent. This result means that
+the doctor may know that the person is infected by
+flukes but cannot tell from the blood test alone which
+specific type of fluke is causing the disease. In addition,
+blood tests for fluke infections cannot distinguish
+between past and current infections. In some cases,
+sophisticated imaging techniques, such as computed
+tomography scans (CT scans) or ultrasound scans of
+the patient’s chest or brain (for lung flukes) or abdomen
+(for liver flukes), are useful in confirming a diagnosis
+of fluke infection.
+
+None
