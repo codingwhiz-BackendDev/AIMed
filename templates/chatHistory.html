@@ -1,0 +1,143 @@
+{% extends 'base.html' %}
+{% block title %}Chat History{% endblock %}
+{% block content %}
+<header>
+  <button class="mobile-toggle" id="mobileToggle">
+    <i class="fas fa-bars"></i>
+  </button>
+  <h1>
+    Chat History
+  </h1>
+  <p class="subtitle">
+    Review and continue your previous medical conversations
+  </p>
+</header>
+
+<section class="chat-history-page">
+  <div class="history-filters">
+    <div class="search-container">
+      <input type="text" id="chat-search" placeholder="Search conversations...">
+      <button class="search-button">
+        <i class="fas fa-search"></i>
+      </button>
+    </div>
+    <div class="filter-options">
+      <select id="date-filter">
+        <option value="all">All time</option>
+        <option value="today">Today</option>
+        <option value="week">This week</option>
+        <option value="month">This month</option>
+      </select>
+      <select id="topic-filter">
+        <option value="all">All topics</option>
+        <option value="symptoms">Symptoms</option>
+        <option value="conditions">Conditions</option>
+        <option value="lifestyle">Lifestyle</option>
+        <option value="medication">Medication</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="chat-history-list">
+    <!-- Chat history entries -->
+    <div class="chat-entry">
+      <div class="chat-entry-info">
+        <div class="chat-entry-icon">
+          <i class="fas fa-heartbeat"></i>
+        </div>
+        <div class="chat-entry-text">
+          <div class="chat-entry-title">Cardiac symptoms discussion</div>
+          <div class="chat-entry-preview">We discussed chest pain, shortness of breath, and when to seek emergency...</div>
+        </div>
+      </div>
+      <div class="chat-actions">
+        <div class="chat-entry-time">Today at 14:32</div>
+        <button class="continue-chat-btn">
+          <i class="fas fa-reply"></i> Continue
+        </button>
+      </div>
+    </div>
+
+    <div class="chat-entry">
+      <div class="chat-entry-info">
+        <div class="chat-entry-icon">
+          <i class="fas fa-virus"></i>
+        </div>
+        <div class="chat-entry-text">
+          <div class="chat-entry-title">Fever and flu symptoms</div>
+          <div class="chat-entry-preview">Discussed flu vs. common cold symptoms and appropriate home remedies...</div>
+        </div>
+      </div>
+      <div class="chat-actions">
+        <div class="chat-entry-time">Yesterday at 09:15</div>
+        <button class="continue-chat-btn">
+          <i class="fas fa-reply"></i> Continue
+        </button>
+      </div>
+    </div>
+
+    <div class="chat-entry">
+      <div class="chat-entry-info">
+        <div class="chat-entry-icon">
+          <i class="fas fa-apple-alt"></i>
+        </div>
+        <div class="chat-entry-text">
+          <div class="chat-entry-title">Nutrition advice for diabetes</div>
+          <div class="chat-entry-preview">Review of diabetic diet recommendations including glycemic index...</div>
+        </div>
+      </div>
+      <div class="chat-actions">
+        <div class="chat-entry-time">Apr 7, 2025</div>
+        <button class="continue-chat-btn">
+          <i class="fas fa-reply"></i> Continue
+        </button>
+      </div>
+    </div>
+
+    <div class="chat-entry">
+      <div class="chat-entry-info">
+        <div class="chat-entry-icon">
+          <i class="fas fa-running"></i>
+        </div>
+        <div class="chat-entry-text">
+          <div class="chat-entry-title">Exercise for joint health</div>
+          <div class="chat-entry-preview">Low-impact exercise recommendations for arthritis and joint pain...</div>
+        </div>
+      </div>
+      <div class="chat-actions">
+        <div class="chat-entry-time">Apr 5, 2025</div>
+        <button class="continue-chat-btn">
+          <i class="fas fa-reply"></i> Continue
+        </button>
+      </div>
+    </div>
+
+    <div class="chat-entry">
+      <div class="chat-entry-info">
+        <div class="chat-entry-icon">
+          <i class="fas fa-pills"></i>
+        </div>
+        <div class="chat-entry-text">
+          <div class="chat-entry-title">Medication side effects</div>
+          <div class="chat-entry-preview">Discussion about common side effects of blood pressure medications...</div>
+        </div>
+      </div>
+      <div class="chat-actions">
+        <div class="chat-entry-time">Apr 2, 2025</div>
+        <button class="continue-chat-btn">
+          <i class="fas fa-reply"></i> Continue
+        </button>
+      </div>
+    </div>
+  </div>
+
+ 
+</section>
+{% endblock %}
+
+ 
+
+{% block extra_scripts %}
+<script>
+</script>
+{% endblock %}

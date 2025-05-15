@@ -1,0 +1,66 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI Medical Login</title>
+    <link rel="stylesheet" href="{% static 'login.css' %}" />
+    <link rel="stylesheet" href="{% static 'notifications.css' %}" />
+    <link rel="stylesheet" href="{% static 'notifications.js' %}" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="{% static 'font-awesome3/css/all.css' %}" />
+  </head>
+
+  <body>
+    {% for message in messages %}
+    <div class="message-container">
+      <div class="message {{ message.tags }}">{{ message }}</div>
+    </div>
+    {% endfor %}
+
+    <div class="login-container">
+      <div class="logo">
+        <img src="{% static 'logo.jpg' %}" alt="AI Medical Logo" />
+      </div>
+
+      <h2>Welcome to AI Med System</h2>
+      <p class="subtext">Secure AI-powered medical solutions</p>
+      <form method="POST">
+        {% csrf_token %}
+        <!-- Added ID here -->
+        <div class="input-group">
+          <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Enter your email"
+            required
+          />
+          <span class="icon"><i class="fas fa-user"></i></span>
+        </div>
+        <div class="input-group">
+          <input
+            type="password"
+            id="password"
+            name="password"
+            placeholder="Enter your Password"
+            required
+          />
+          <span class="icon"><i class="fas fa-lock"></i></span>
+        </div>
+        <button type="submit">Login</button>
+      </form>
+
+      <p class="footer">
+        Forgot Password? <a href="/forgot_password/">Reset</a>
+      </p>
+      <p class="footer">Don't have an account?<a href="/register">Signup</a></p>
+    </div>
+    <script src="{% static 'script.js' %}"></script>
+    <script src="{% static 'login.js' %}"></script>
+  </body>
+</html>

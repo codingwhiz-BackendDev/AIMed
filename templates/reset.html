@@ -1,0 +1,74 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reset Password</title>
+    <link rel="stylesheet" href="{% static 'Styles.css' %}">
+<style>
+    .reset-container {
+        width: 400px;
+        margin: auto;
+        padding: 20px;
+        text-align: center;
+        background: white;
+        border-radius: 8px;
+        box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    input {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+    }
+
+    button {
+        width: 100%;
+        padding: 10px;
+        background: #007BFF;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background: #0056b3;
+    }
+</style>    
+</head>
+<body> 
+    <div class="reset-container">
+        <h2>Reset your Password</h2>
+        <p>Enter your email address,and we'll send you a password reset link.</p>
+        <form action="#" method="POST">
+            <input type="email" name="email" placeholder="Enter your email" required>
+            <button type="submit">Reset Password</button>
+        </form>
+        <a href="index.html">Back to Login</a>
+    </div>
+</body>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const form = document.querySelector("form");
+
+        form.addEventListener("submit", async function(event) {
+            event.preventDefault();
+            const email = document.querySelector("input[name='email']").value;
+
+            // Send request to backend
+            const response = await fetch("http://127.0.0.1:5000/reset-password", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ email })
+            });
+
+            const data = await response.json();
+            alert(data.message); // Show response message
+        });
+    });
+</script>
+</html>

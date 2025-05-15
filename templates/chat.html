@@ -1,0 +1,99 @@
+{% extends 'base.html' %} {% load static %} {% block title %}AI Medical Chat
+{%endblock %} {% block content %}
+<header>
+  <button class="mobile-toggle" id="mobileToggle">
+    <i class="fas fa-bars"></i>
+  </button>
+  <h1>AI Medical Assistant</h1>
+  <p class="subtitle">
+    Ask me anything about medical conditions, symptoms, or general health advice
+  </p>
+</header>
+
+<section class="chat-interface">
+  <div class="chat-container">
+    <div id="chat-messages-chat" class="chat-messages-chat">
+      <div class="welcome-message">
+        <div class="ai-avatar">
+          <i class="fas fa-robot"></i>
+        </div>
+        <div class="message-content">
+          <p>
+            👋 Hello! I'm your AI Medical Assistant. How can I help you today?
+          </p>
+          <p class="suggestion-text">Try asking me about:</p>
+          <div class="suggestions">
+            <button class="suggestion-btn">Common cold symptoms</button>
+            <button class="suggestion-btn">Healthy diet tips</button>
+            <button class="suggestion-btn">Exercise recommendations</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="chat-form" class="chat-form">
+      <div class="chat-input-container">
+        <!-- Image preview container -->
+        <div id="image-preview" class="image-preview"></div>
+
+        <!-- Input area container -->
+        <div class="input-area">
+          <!-- File input for images -->
+          <input
+            type="file"
+            id="image-upload"
+            accept="image/*"
+            multiple
+            style="display: none"
+          />
+
+          <textarea
+            id="user-input"
+            placeholder="Type your medical question here..."
+            rows="3"
+            required
+          ></textarea>
+
+          <!-- Attachment button -->
+          <button
+            type="button"
+            id="attachment-button"
+            class="attachment-button"
+            title="Attach files"
+          >
+            <i class="fas fa-paperclip"></i>
+          </button>
+
+          <!-- Send/Record button -->
+          <button
+            type="button"
+            id="send-button"
+            class="send-button"
+            title="Record voice note"
+          >
+            <i class="fas fa-microphone"></i>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="chat-history">
+  <h3><i class="fas fa-history"></i> Recent Conversations</h3>
+  <div id="recent-chats" class="recent-chats-container">
+    <div class="empty-state">
+      {% if not chat_history %}
+      <i class="fas fa-comments"></i>
+      <p>No recent conversations yet</p>
+      {% else %} {% for history in chat_history %}
+      <li>
+        <h3>{{history.message|truncatewords:10}}</h3>
+      </li>
+      {% endfor %} {% endif %}
+    </div>
+  </div>
+</section>
+{% endblock %} {% block extra_scripts %}
+<script src="{% static 'js/chat.js' %}"></script>
+{% endblock %}

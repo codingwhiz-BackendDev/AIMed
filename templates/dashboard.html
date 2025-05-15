@@ -1,0 +1,214 @@
+{% extends 'base.html' %} {% block title %}AI Medical Dashboard{% endblock %}
+{%block content %} {% for message in messages %}
+<div class="message-container">
+  <div class="message {{ message.tags }}">{{ message }}</div>
+</div>
+{% endfor %}
+
+<div class="dashboard-header">
+  <h1>
+    <button class="mobile-toggle" id="mobileToggle">
+      <i class="fas fa-bars"></i>
+    </button>
+    <div class="welcome-text">
+      Welcome,
+      <span class="highlight">{{ user.username }}</span>
+    </div>
+  </h1>
+  <div class="date-info">
+    <i class="fas fa-calendar"></i>
+    <span id="currentDate"></span>
+  </div>
+</div>
+
+<div class="dashboard-grid">
+  <!-- Quick Stats Card -->
+  <div class="dashboard-card" data-aos="fade-up">
+    <div class="card-header">
+      <h3 class="card-title">
+        <i class="fas fa-chart-line"></i>
+        Quick Stats
+      </h3>
+      <div class="card-icon">
+        <i class="fas fa-chart-pie"></i>
+      </div>
+    </div>
+    <div class="card-content">
+      <div class="stats-grid">
+        <div class="stat-item">
+          <i class="fas fa-user-md"></i>
+          <div class="stat-info">
+            <span class="stat-value">24</span>
+            <span class="stat-label">Active Doctors</span>
+          </div>
+        </div>
+        <div class="stat-item">
+          <i class="fas fa-procedures"></i>
+          <div class="stat-info">
+            <span class="stat-value">156</span>
+            <span class="stat-label">Patients Today</span>
+          </div>
+        </div>
+        <div class="stat-item">
+          <i class="fas fa-robot"></i>
+          <div class="stat-info">
+            <span class="stat-value">89%</span>
+            <span class="stat-label">AI Accuracy</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- AI Chat Card -->
+  <div class="dashboard-card" data-aos="fade-up" data-aos-delay="100">
+    <div class="card-header">
+      <h3 class="card-title">
+        <i class="fas fa-robot"></i>
+        AI Assistant
+      </h3>
+      <div class="card-icon">
+        <i class="fas fa-comments"></i>
+      </div>
+    </div>
+    <div class="card-content">
+      <div class="ai-chat-preview">
+        <div class="chat-message ai">
+          <i class="fas fa-robot"></i>
+          <p>Hello! How can I assist you with medical queries today?</p>
+        </div>
+        <div class="chat-message user">
+          <i class="fas fa-user"></i>
+          <p>I need help with a patient diagnosis...</p>
+        </div>
+      </div>
+      <a href="{% url 'chat' %}" class="view-all">
+        Start New Chat <i class="fas fa-arrow-right"></i>
+      </a>
+    </div>
+  </div>
+
+  <!-- Recent Activity Card -->
+  <div class="dashboard-card" data-aos="fade-up" data-aos-delay="200">
+    <div class="card-header">
+      <h3 class="card-title">
+        <i class="fas fa-clock"></i>
+        Recent Activity
+      </h3>
+      <div class="card-icon">
+        <i class="fas fa-history"></i>
+      </div>
+    </div>
+    <div class="card-content">
+      <div class="activity-list">
+        <div class="activity-item">
+          <i class="fas fa-check-circle success"></i>
+          <div class="activity-info">
+            <span class="activity-text">Patient consultation completed</span>
+            <span class="activity-time">2 minutes ago</span>
+          </div>
+        </div>
+        <div class="activity-item">
+          <i class="fas fa-file-medical-alt info"></i>
+          <div class="activity-info">
+            <span class="activity-text">New lab results received</span>
+            <span class="activity-time">15 minutes ago</span>
+          </div>
+        </div>
+        <div class="activity-item">
+          <i class="fas fa-robot warning"></i>
+          <div class="activity-info">
+            <span class="activity-text">AI diagnosis suggestion</span>
+            <span class="activity-time">30 minutes ago</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Medical Insights Card -->
+  <div class="dashboard-card" data-aos="fade-up" data-aos-delay="300">
+    <div class="card-header">
+      <h3 class="card-title">
+        <i class="fas fa-brain"></i>
+        Medical Insights
+      </h3>
+      <div class="card-icon">
+        <i class="fas fa-chart-bar"></i>
+      </div>
+    </div>
+    <div class="card-content">
+      <div class="insights-grid">
+        <div class="insight-item">
+          <div class="insight-icon">
+            <i class="fas fa-virus"></i>
+          </div>
+          <div class="insight-info">
+            <span class="insight-title">Common Symptoms</span>
+            <span class="insight-value">Fever, Cough, Fatigue</span>
+          </div>
+        </div>
+        <div class="insight-item">
+          <div class="insight-icon">
+            <i class="fas fa-pills"></i>
+          </div>
+          <div class="insight-info">
+            <span class="insight-title">Popular Medications</span>
+            <span class="insight-value">Paracetamol, Ibuprofen</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Sidebar -->
+<aside class="sidebar" id="sidebar">
+  <div class="sidebar-header">
+    <div class="logo">
+      <i class="fas fa-brain"></i>
+    </div>
+    <h2>AI Medical</h2>
+    <button class="toggle-sidebar" id="toggleSidebar">
+      <i class="fas fa-chevron-left"></i>
+    </button>
+  </div>
+
+  <nav class="sidebar-nav">
+    <ul>
+      <li>
+        <a href="#" class="active">
+          <i class="fas fa-home"></i>
+          <span>Dashboard</span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          <i class="fas fa-robot"></i>
+          <span>AI Assistant</span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          <i class="fas fa-user-md"></i>
+          <span>Patients</span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          <i class="fas fa-chart-line"></i>
+          <span>Analytics</span>
+        </a>
+      </li>
+      <li>
+        <a href="#">
+          <i class="fas fa-cog"></i>
+          <span>Settings</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+</aside>
+
+{% endblock %} {% block extra_head %} {% endblock %} {% block extra_scripts %}
+{% endblock %}

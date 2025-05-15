@@ -1,0 +1,127 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{% block title %}AI Med Dashboard{% endblock %}</title>
+
+  <!-- Fonts and Icons -->
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="{% static 'chat.css' %}" />
+  <link rel="stylesheet" href="{% static 'chatHistory.css' %}" />
+  <link rel="stylesheet" href="{% static 'dashboard.css' %}" />
+  <link rel="stylesheet" href="{% static 'notifications.css' %}" />
+  <link rel="stylesheet" href="{% static 'settings.css' %}" />
+  <link rel="stylesheet" href="{% static 'font-awesome3/css/all.css' %}">
+  <!-- AOS Animation Library -->
+  <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet" />
+
+  <!-- Add this in your head section -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+  {% block extra_css %}{% endblock %}
+</head>
+
+<body>
+  {% if messages %}
+  <div class="message-container">
+    {% for message in messages %}
+    <div class="message {{ message.tags }}">{{ message }}</div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="dashboard-container">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-header">
+        <img src="{% static 'logo.jpg' %}" alt="AI Med Logo" class="logo" />
+        <h2>AI Med</h2>
+        <button class="toggle-sidebar" id="toggleSidebar">
+          <i class="fas fa-bars"></i>
+        </button>
+      </div>
+
+      <nav class="sidebar-nav">
+        <ul>
+          <li class="active">
+            <a href="/dashboard">
+              <i class="fas fa-home"></i>
+              <span>Dashboard</span>
+            </a>
+          </li>
+          <li>
+            <a href="/chat">
+              <i class="fas fa-comments"></i>
+              <span>AI Chat</span>
+            </a>
+          </li>
+          <li>
+            <a href="/chat_history">
+              <i class="fas fa-history"></i>
+              <span>Chat History</span>
+            </a>
+          </li>
+          <li>
+            <a href="/settings">
+              <i class="fas fa-cog"></i>
+              <span>Settings</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" id="themeToggle" class="theme-toggle">
+              <i class="fas fa-moon"></i>
+              <span>Toggle mode</span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+
+      <div class="sidebar-footer">
+        <div class="user-profile">
+          <img src="{% static 'logo.jpg' %}" alt="User Avatar" />
+          <div class="user-info">
+            <span class="username">{{ user.username }}</span>
+            <span class="user-role">Medical Professional</span>
+          </div>
+        </div>
+        <a href="{% url 'logout' %}" class="logout-btn">
+          <i class="fas fa-sign-out-alt"></i>
+          <span>Logout</span>
+        </a>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">{% block content %}{% endblock %}</main>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script src="{% static 'notifications.js' %}"></script>
+  <script src="{% static 'dashboard.js' %}"></script>
+  <script src="{% static 'chat.js' %}"></script>
+  <script src="{% static 'chatHistory.js' %}"></script>
+  <script src="{% static 'main.js' %}"></script>
+
+  {% block extra_js %}{% endblock %}
+
+  <script>
+    // Initialize AOS
+    AOS.init({
+      duration: 800,
+      easing: "ease-in-out",
+      once: true,
+    });
+    console.log("hey")
+
+  </script>
+</body>
+
+</html>
