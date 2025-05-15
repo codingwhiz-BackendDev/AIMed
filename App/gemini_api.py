@@ -5,7 +5,7 @@ from .models import GeminiChatHistory
 
 load_dotenv()
  
-genai.configure(api_key="")
+genai.configure(api_key="AIzaSyDiFqUa10wIgRLDflTcT4m5Z7KnVKXcSm8")
 
 model = genai.GenerativeModel("gemini-2.0-flash")
  
